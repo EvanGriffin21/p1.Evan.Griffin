@@ -15,4 +15,7 @@ Common mistakes pressing the wrong floor number, getting confused with the lette
 Some improvements I would make is making the floor buttons in a vertical line so the user can visualize where there are going. 
 ![sketch_elevator](https://user-images.githubusercontent.com/98298864/193870810-cf749a49-005f-4cf4-8ef7-0574f1f247b8.jpg)
 
-![image](https://user-images.githubusercontent.com/98298864/193871097-4bf764b9-1b28-4dd8-b3e9-da456bcf52c9.png)
+
+
+https://user-images.githubusercontent.com/98298864/194172056-002eadee-9187-4323-a468-215d9c308938.mp4
+
